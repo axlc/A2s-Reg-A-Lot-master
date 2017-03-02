@@ -356,6 +356,7 @@ namespace A2_Reg_A_Lot_2017
 
             Connection.Close();
             return role;
+            //5h
         }
 
         public int GetEnrollmentsByCourseID(int course_ID)
