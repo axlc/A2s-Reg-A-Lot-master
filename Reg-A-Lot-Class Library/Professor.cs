@@ -10,7 +10,7 @@ namespace Reg_A_Lot_Class_Library
     {
         public void GrabInfo()
         {
-            
+            //CLASS
         }
     }
 }
